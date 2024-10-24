@@ -15,6 +15,7 @@ https://dhansukhkothuru.github.io/KeyKeeper/
 - **Toastify:** Library for toast notifications
 ## Features
 
+- Responsive design for both mobile and PC
 - Hide/unhide functionality for passwords
 - Dynamic table for storing credentials (website, username, password)
 - Editing and deleting options for saved passwords
