@@ -5,8 +5,7 @@ A simple, user-friendly password manager that stores credentials in local storag
 
 
 ## Demo
-
-https://dhansukhkothuru.github.io/KeyKeeper/
+https://kothurudhansukh.github.io/KeyKeeper/
 ## Tech Stack 
 
 - **React.js:** Frontend JavaScript library for building user interfaces
